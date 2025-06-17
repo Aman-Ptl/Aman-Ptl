@@ -9,7 +9,7 @@
 - 📫 How to reach me: **ptlaman1922@gmail.com**
 - 👨‍💻 All of my projects are available at [My Portfolio](#) <!-- Add your portfolio link -->
 - 📄 Know about my experiences: [My Resume](#) <!-- Add your resume link -->
-- ⚡ Fun fact: *I can debug better after a cup of chai! ☕*
+
 
 ---
 
@@ -33,7 +33,7 @@
 ### 📫 Connect with me:
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="20" width="20" /> LinkedIn</a>  
+  <a href="https://www.linkedin.com/in/amanpateljnv/" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="20" width="20" /> LinkedIn</a>  
   &nbsp;|&nbsp;
   <a href="mailto:ptlaman1922@gmail.com">📧 Gmail</a>
   &nbsp;|&nbsp;
