@@ -35,7 +35,6 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/amanpateljnv/" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="20" width="20" /> LinkedIn</a>  
   &nbsp;|&nbsp;
-  <a href="https://github.com/Aman-Ptl">🌐 GitHub</a>
 </p>
 
 ---
