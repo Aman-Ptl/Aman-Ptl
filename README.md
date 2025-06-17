@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aman Patel</h1>
 <h3 align="center">A passionate MERN Stack Developer from India 🇮🇳</h3>
 
-<p align="center">
-  <img src="C:\Users\patel\Downloads\pngwing.com.png" alt="Aman Patel" width="200" />
-</p>
-
 - 🔭 I’m currently working on **Restaurant Web Application**
 - 👯 I’m looking to collaborate on **Exciting MERN Projects**
 - 🤝 I’m looking for help with **Advanced React Patterns**
@@ -39,11 +35,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/amanpateljnv/" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="20" width="20" /> LinkedIn</a>  
   &nbsp;|&nbsp;
-  <a href="mailto:ptlaman1922@gmail.com">📧 Gmail</a>
-  &nbsp;|&nbsp;
   <a href="https://github.com/Aman-Ptl">🌐 GitHub</a>
 </p>
 
 ---
-
-### 🧠 Let's build something amazing together!
