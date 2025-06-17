@@ -2,7 +2,7 @@
 <h3 align="center">A passionate MERN Stack Developer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://www.freepik.com/free-psd/3d-nft-icon-developer-male-illustration_25469811.htm#fromView=keyword&page=1&position=1&uuid=8aa84b31-143d-4952-bbf5-fc0670d308e0&query=Developer+Png" alt="Aman Patel" width="200" />
+  <img src="C:\Users\patel\Downloads\pngwing.com.png" alt="Aman Patel" width="200" />
 </p>
 
 - 🔭 I’m currently working on **Restaurant Web Application**
