@@ -36,11 +36,6 @@
     LinkedIn
   </a>
   &nbsp;|&nbsp;
-  <a href="https://github.com/Aman-Ptl" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="github" height="20" width="20" />
-    GitHub
-  </a>
-  &nbsp;|&nbsp;
   <a href="mailto:ptlaman1922@gmail.com">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" height="20" width="20" />
     Email
