@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Next.js, TypeScript, and Web Animations**
 - 💬 Ask me about **MongoDB, Express.js, React, Node.js**
 - 📫 How to reach me: **ptlaman1922@gmail.com**
-- 👨‍💻 All of my projects are available at [My Portfolio](#) <[!-- Add your portfolio link --](https://react-portfolio-delta-woad.vercel.app)>
+- 👨‍💻 All of my projects are available at [My Portfolio](#) <[https://react-portfolio-delta-woad.vercel.app>
 - 📄 Know about my experiences: [My Resume](#) <!-- Add your resume link -->
 
 
