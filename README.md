@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aman Patel</h1>
 <h3 align="center">A passionate MERN Stack Developer from India 🇮🇳</h3>
 
+<p align="center">
+  ![Profile views](https://komarev.com/ghpvc/?username=Aman-Ptl&label=Profile%20views&color=0e75b6&style=flat)
+</p>
+
 - 🔭 I’m currently working on **Restaurant Web Application**  
 - 👯 I’m looking to collaborate on **Exciting MERN Projects**  
 - 🤝 I’m looking for help with **Advanced React Patterns**  
