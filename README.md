@@ -21,9 +21,6 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,vite,git,github,postman" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Ptl&layout=compact&langs_count=8&theme=default" alt="Aman-Ptl" />
-</p>
 ---
 
 ### 📊 GitHub Stats:
@@ -31,6 +28,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aman-Ptl&show_icons=true&locale=en" alt="Aman-Ptl" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-Ptl" alt="Aman-Ptl" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Ptl&layout=compact&langs_count=8&theme=default" alt="Aman-Ptl" />
 </p>
 
 ### 📫 Connect with me:
