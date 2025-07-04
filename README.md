@@ -32,7 +32,11 @@
 </p>
 
 ---
+### 📚 Most Used Languages:
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Ptl&layout=compact&langs_count=8&theme=default" alt="Aman-Ptl" />
+</p>
 ### 📫 Connect with me:
 
 <p align="left">
