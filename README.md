@@ -30,12 +30,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Aman-Ptl&show_icons=true&locale=en" alt="Aman-Ptl" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-Ptl" alt="Aman-Ptl" />
 </p>
-### 📚 Most Used Languages:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Ptl&layout=compact&langs_count=8&theme=default" alt="Aman-Ptl" />
 </p>
----
 
 ### 📫 Connect with me:
 
