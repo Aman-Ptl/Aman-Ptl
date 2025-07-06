@@ -18,7 +18,7 @@
 ### 🛠️ Languages and Tools I Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,C++,tailwind,vite,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,cpp,tailwind,vite,git,github,postman" />
 </p>
 
 ---
