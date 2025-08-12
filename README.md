@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **Restaurant Web Application**  
 - 👯 I’m looking to collaborate on **Exciting MERN Projects**  
 - 🤝 I’m looking for help with **Advanced React Patterns**  
-- 🌱 I’m currently learning **Next.js, TypeScript, Python, and Web Animations**  
+- 🌱 I’m currently learning **Python,Data Science and Web Animations**  
 - 💬 Ask me about **MongoDB, Express.js, React, Node.js**  
 - 📫 How to reach me: **ptlaman1922@gmail.com**  
 - 👨‍💻 All of my projects are available at [My Portfolio](https://react-portfolio-delta-woad.vercel.app)  
