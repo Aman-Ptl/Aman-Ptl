@@ -32,7 +32,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-Ptl" alt="Aman-Ptl" />
 </p>
-![Aman-Ptl's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aman-Ptl&show_icons=true&locale=en&count_private=true&theme=radical&token=YOUR_PERSONAL_ACCESS_TOKEN)
+
 
 ---
 
